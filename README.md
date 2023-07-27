@@ -25,4 +25,4 @@ the program outputs the grocery list to make all the recipes. The ingredients th
 3) create new recipes with help from AI
 4) suggest recipes based on user preferences from AI assistant
 5) adjust recipes for desired macronutrient profile and recipe cost with AI assistant
-6) 2
+
